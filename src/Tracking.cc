@@ -37,6 +37,8 @@
 
 #include<mutex>
 
+//以下追加分
+#include "unistd.h"
 
 using namespace std;
 
