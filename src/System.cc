@@ -26,6 +26,9 @@
 #include <pangolin/pangolin.h>
 #include <iomanip>
 
+//以下追加分
+#include "unistd.h"
+
 namespace ORB_SLAM2
 {
 

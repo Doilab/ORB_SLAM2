@@ -25,6 +25,9 @@
 
 #include<mutex>
 
+//以下追加分
+#include "unistd.h"
+
 namespace ORB_SLAM2
 {
 

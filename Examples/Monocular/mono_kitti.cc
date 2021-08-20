@@ -29,6 +29,9 @@
 
 #include"System.h"
 
+//以下追加分
+#include "unistd.h"
+
 using namespace std;
 
 void LoadImages(const string &strSequence, vector<string> &vstrImageFilenames,
